@@ -1,36 +1,9 @@
-# labyrinths-and-lycaons
+# Labyrinths and Lycaons
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar labyrinths-and-lycaons-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+An Open Source version of RPG Maker. This is currently only the skeleton of the project, it'll take some time for significant progress to be made.
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Brandon Weaver
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT License.
